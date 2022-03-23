@@ -573,5 +573,130 @@
     "guides": {
       "rokguide": "https://rok.guide/xiang-yu/"
     }
+  },
+  "Ragnar Lodbrok": {
+    "id": "58",
+    "title": "Legend of the North",
+    "tier": "Legendary",
+    "red": "Leadership",
+    "yellow": "Conquering",
+    "blue": "Attack",
+    "guides": {
+      "rokguide": "https://www.rok.guide/ragnar-lodbrok/"
+    }
+  },
+  "K’inich Janaab’ Pakal": {
+    "id": "59",
+    "shortName": "Pakal II",
+    "title": "The Shield",
+    "tier": "Legendary",
+    "red": "Infantry",
+    "yellow": "Conquering",
+    "blue": "Defense",
+    "guides": {
+      "rokguide": "https://www.rok.guide/kinich-janaab-pakal/"
+    }
+  },
+  "Cheok Jun-gyeong": {
+    "id": "60",
+    "title": "Goryeo’s First Sword",
+    "tier": "Legendary",
+    "red": "Infantry",
+    "yellow": "Versatility",
+    "blue": "Attack",
+    "guides": {
+      "rokguide": "https://www.rok.guide/cheok-jun-gyeong/"
+    }
+  },
+  "Gilgamesh": {
+    "id": "61",
+    "title": "Wrath of Ishtar",
+    "tier": "Legendary",
+    "red": "Archer",
+    "yellow": "Conquering",
+    "blue": "Skill",
+    "guides": {
+      "rokguide": "https://www.rok.guide/gilgamesh/"
+    }
+  },
+  "Amanitore": {
+    "id": "62",
+    "title": " Nubian Kandake",
+    "tier": "Legendary",
+    "red": "Archer",
+    "yellow": "Garrison",
+    "blue": "Support",
+    "guides": {
+      "rokguide": "https://www.rok.guide/commander/amanitore-guide/"
+    }
+  },
+  "Suleiman I": {
+    "id": "63",
+    "title": "Kanuni",
+    "tier": "Legendary",
+    "red": "Leadership",
+    "yellow": "Conquering",
+    "blue": "Attack",
+    "guides": {
+      "rokguide": "https://www.rok.guide/commander/suleiman-i/"
+    }
+  },
+  "Honda Tadakatsu": {
+    "id": "64",
+    "title": "The Deer of Tokugawa",
+    "tier": "Legendary",
+    "red": "Leadership",
+    "yellow": "Versatility",
+    "blue": "Skill",
+    "guides": {
+      "rokguide": "https://www.rok.guide/commander/honda-tadakatsu/"
+    }
+  },
+  "Bertrand du Guesclin": {
+    "id": "65",
+    "shortName": "Bertrand",
+    "title": "The Eagle of Brittany",
+    "tier": "Legendary",
+    "red": "Cavalry",
+    "yellow": "Conquering",
+    "blue": "Defense",
+    "guides": {
+      "rokguide": "https://www.rok.guide/commander/bertrand-du-guesclin/"
+    }
+  },
+  "Alexander Nevsky": {
+    "id": "66",
+    "shortName": "Nevsky",
+    "title": "The Hero of Neva River",
+    "tier": "Legendary",
+    "red": "Cavalry",
+    "yellow": "Versatility",
+    "blue": "Skill",
+    "guides": {
+      "rokguide": "https://www.rok.guide/commander/alexander-nevsky/"
+    }
+  },
+  "Bjorn Ironside": {
+    "id": "67",
+    "title": "King of Kattegat",
+    "tier": "Epic",
+    "red": "Infantry",
+    "yellow": "Conquering",
+    "blue": "Skill",
+    "guides": {
+      "rokguide": "https://www.rok.guide/bjorn-ironside/"
+    }
+  },
+  "Queen Tamar of Georgia": {
+    "id": "68",
+    "shortName": "Queen Tamar",
+    "title": "The Georgian Will",
+    "tier": "Epic",
+    "red": "Integration",
+    "yellow": "Gathering",
+    "blue": "Support",
+    "guides": {
+      "rokguide": "https://www.rok.guide/commander/queen-tamar-of-georgia/"
+    }
   }
 }
